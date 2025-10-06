@@ -15,7 +15,7 @@ When executed, it automatically creates the following resources:
 * S3 bucket for data storage and processing
 
 
-Before running the stack, specify a globally unique name for your S3 bucket.
+Before running the stack, specify a globally unique name for your S3 bucket. It is important for it to be globally unique so make sure to make it a bit long and add random numbers.
 
 
 After the stack is deployed, complete these steps manually from the AWS Management Console:
