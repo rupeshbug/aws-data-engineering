@@ -15,7 +15,7 @@ When executed, it automatically creates the following resources:
 * S3 bucket for data storage and processing
 
 
-Before running the stack, specify a globally unique name for your S3 bucket. It is important for it to be globally unique so make sure to make it a bit long and add random numbers.
+Before running the stack, specify a globally unique name for your S3 bucket.
 
 
 After the stack is deployed, complete these steps manually from the AWS Management Console:
@@ -47,4 +47,3 @@ This project explores a range of AWS data services commonly used in real-world d
 * AWS Glue ETL – to create and schedule extract-transform-load (ETL) jobs.
 * Amazon Athena – for serverless querying and analysis of data stored in S3 using SQL.
 * Amazon Redshift – for scalable data warehousing and analytics.
-* Amazon Kinesis – for processing and analyzing streaming data in real time.
