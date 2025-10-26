@@ -1,6 +1,6 @@
 ## AWS Data Engineering
 
-This repository contains CloudFormation templates and AWS resource configurations created while practicing AWS data engineering and infrastructure concepts. The YAML files define and deploy foundational cloud components such as VPCs, subnets, routing tables, security groups, and S3 buckets — all essential for building secure and scalable data workflows.
+This repository contains CloudFormation templates and AWS resource configurations created while practicing AWS data engineering and infrastructure concepts. The YAML files define and deploy foundational cloud components such as VPCs, subnets, routing tables, security groups, and S3 buckets — all essential for building secure and scalable data workflows. It also contains folders which are projects in seperate folders and resources of it.
 
 ### ⚙️ Setup
 
@@ -43,7 +43,9 @@ After the stack is deployed, complete these steps manually from the AWS Manageme
 
 This project explores a range of AWS data services commonly used in real-world data engineering workflows, including:
 
-* AWS Glue – for discovering, preparing, and transforming data for analytics and machine learning.
-* AWS Glue ETL – to create and schedule extract-transform-load (ETL) jobs.
+* Amazon S3 – Data lake for raw and processed data.
+* AWS Glue – Data discovery, transformation, and ETL jobs.
+* AWS Lambda – Event-driven transformations.
 * Amazon Athena – for serverless querying and analysis of data stored in S3 using SQL.
 * Amazon Redshift – for scalable data warehousing and analytics.
+* AWS CloudFormation – Infrastructure-as-code for repeatable environments.
