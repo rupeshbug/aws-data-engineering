@@ -1,0 +1,1 @@
+A serverless ETL pipeline on AWS that transforms JSON data from S3 into optimized Parquet format using Lambda, Glue, and Athena
