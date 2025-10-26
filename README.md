@@ -1,6 +1,6 @@
 ## AWS Data Engineering
 
-This repository contains CloudFormation templates and AWS resource configurations created while practicing AWS data engineering and infrastructure concepts. The YAML files define and deploy foundational cloud components such as VPCs, subnets, routing tables, security groups, and S3 buckets — all essential for building secure and scalable data workflows. It also contains folders which are projects in seperate folders and resources of it.
+This repository contains CloudFormation templates and AWS resource configurations created while practicing AWS data engineering and infrastructure concepts. The YAML files define and deploy foundational cloud components such as VPCs, subnets, routing tables, security groups, and S3 buckets — all essential for building secure and scalable data workflows. It also includes separate project folders that contain hands-on implementations and related resources.
 
 ### ⚙️ Setup
 
